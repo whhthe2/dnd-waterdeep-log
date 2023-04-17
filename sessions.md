@@ -43,5 +43,26 @@ _s_ = saving throw</sub>
 
 Learned from Ranaer Neverember that the Zhentarim thinks his father, Dagult Neverember, embezzled a large amount of gold while he was Open Lord, and that he hid the dragons somewhere in the city. They think they can find it by using an artifact called the Stone of Golorr, which was in the hands of the Xanathar Guild until recently. Apparently, someone stole it. The Zhents thought Ranaer knew something about this, but he claims to know nothing. "My father and I haven't spoken in years" he said.
 
+## 3 Xanathar Guild Hideout
 
+- A pair of goblins betrayed the Guild in exchange for a gold piece each.
+- Krentz (human bandit) was allowed to flee
+- Floon was rescued from the Guild and reunited with Volo
+- The party accepted the deed to Trollskull Manor.
 
+## 4 Furnishing Trollskull
+
+- Worked a day at cleaning up the taproom.
+- Met Talisolvanar "Tally" Fellbranch from the Bent Nail next door 
+    - Asked him to make complete furnishings for the Manor
+    - taking on an apprentice. 
+    - Estimated a week per small room.
+- Met Fala Lefaliir, an Herbalist who runs "Corellon's Crown". 
+    - described Lif's passion for the tavern
+- Hawked wares for A.D.I.D.A.W.D (all day I dream about waterdeep)
+- Mirt (a.k.a. the Merciless, or "old wolf")
+    - Everyone agreed to join the Harpers, receiving a pin of a harp in a crescent moon.
+    - Agreed to find someone who can speak with the dead
+    - Offered to pay 15% of the renovation costs in exchange for access to a discreet place for Harper meetings.
+    - warned Triel that Bregan D'aerthe has become interested in her.
+    - needs you to find a talking horse named Maxeene
