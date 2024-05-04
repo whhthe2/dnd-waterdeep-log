@@ -43,20 +43,21 @@ _s_ = saving throw</sub>
 
 Learned from Ranaer Neverember that the Zhentarim thinks his father, Dagult Neverember, embezzled a large amount of gold while he was Open Lord, and that he hid the dragons somewhere in the city. They think they can find it by using an artifact called the Stone of Golorr, which was in the hands of the Xanathar Guild until recently. Apparently, someone stole it. The Zhents thought Ranaer knew something about this, but he claims to know nothing. "My father and I haven't spoken in years" he said.
 
-## 3 Xanathar Guild Hideout
+## 3: Xanathar Guild Hideout
 
 - A pair of goblins betrayed the Guild in exchange for a gold piece each.
 - Krentz (human bandit) was allowed to flee
 - Floon was rescued from the Guild and reunited with Volo
 - The party accepted the deed to Trollskull Manor.
 
-## 4 Furnishing Trollskull
+## 4: Furnishing Trollskull
 
+9/9
 - Worked a day at cleaning up the taproom.
 - Met Talisolvanar "Tally" Fellbranch from the Bent Nail next door 
     - Asked him to make complete furnishings for the Manor
     - taking on an apprentice. 
-    - Estimated a week per small room.
+    - Estimated a tenday per two small rooms.
 - Met Fala Lefaliir, an Herbalist who runs "Corellon's Crown". 
     - described Lif's passion for the tavern
 - Hawked wares for A.D.I.D.A.W.D (all day I dream about waterdeep)
@@ -66,3 +67,19 @@ Learned from Ranaer Neverember that the Zhentarim thinks his father, Dagult Neve
     - Offered to pay 15% of the renovation costs in exchange for access to a discreet place for Harper meetings.
     - warned Triel that Bregan D'aerthe has become interested in her.
     - needs you to find a talking horse named Maxeene
+
+## 5: Finding Maxeene
+
+### 9/10
+- Met Friar Persch near a wicker monument
+- Introduced Hickory Gurt to Tally Fellbranch as apprentice
+- 3/24ths towards the manor's fixups
+- Frewn's Brews is "Coming Soon"
+
+### 9/11
+- Gave street urchins some money
+- performed firewalking near the docks for folks gathered to see the Carnival Ships
+- Learned Davil Starsong's Name and description from Maxeene (a talking horse)
+- Got a hint from Mirt to ask Avi at the Steam and somethin
+- Found an eyepatch, dropped by a Drow that was shadowing Triel.
+
