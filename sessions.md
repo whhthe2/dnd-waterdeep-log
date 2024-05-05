@@ -83,3 +83,20 @@ Learned from Ranaer Neverember that the Zhentarim thinks his father, Dagult Neve
 - Got a hint from Mirt to ask Avi at the Steam and somethin
 - Found an eyepatch, dropped by a Drow that was shadowing Triel.
 
+## 6: Open for Business
+
+- Triel was contacted by a J.B. Nevercott, who asked her to perform a feat of sleight-of-hand as a test.
+    - she passed the test, and when she returned to the Manor, found a pouch with gems worth 300g.
+- Contracted the roofers, plaisterers, and plumbers guilds
+    - agreed to offer those guilds 2 beers a day for a year and 1150gp (includes contracts, materials, labor)
+    - completed renovations
+- Staff:
+    - Captain Simon Mudder (bartender) - constable of Muddington.
+    - Sheeran (Minstrel) - refugee of Muddington
+    - Remy (Baker) - refugee of Muddington
+    - Cassandra (Waitress) - refugee of Muddington
+    - Aggie (maid) - formerly lived in a crate by the docks
+- Caught a wererat drilling a hole in the wall
+    - asked Lif to wake them up if any more drilling happens.
+    - Wererat was taken in to custody by the guards for vandalism
+- Opened the "T.S. Tavern" (and Inn?)
